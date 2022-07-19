@@ -1,0 +1,28 @@
+{
+  "name": "text-to-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pkg": {
+    "assets": "node_modules",
+    "outputPath": "dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khui0/text-to-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khui0/text-to-image/issues"
+  },
+  "homepage": "https://github.com/khui0/text-to-image#readme",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "jimp-compact": "^0.16.1-2"
+  }
+}
