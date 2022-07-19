@@ -23,6 +23,7 @@
   "homepage": "https://github.com/khui0/text-to-image#readme",
   "dependencies": {
     "canvas": "^2.9.3",
-    "jimp-compact": "^0.16.1-2"
+    "jimp-compact": "^0.16.1-2",
+    "minimist": "^1.2.6"
   }
 }
